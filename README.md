@@ -12,6 +12,8 @@ In order to use this project setup in your next application, do this:
 ### Install the dependencies
 
 ```bash
+  cd your-project-name
+  
   yarn install or npm install
 ```
 
